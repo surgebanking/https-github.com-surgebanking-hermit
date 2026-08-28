@@ -1,7 +1,7 @@
 only_orgs:
-  - isontheline
+  - ICONFARVIE
 only_repos:
   - pro.webssh.net
-data_branch: star-tracker-data
+data_branch: iconfarvie
 compare_against: 30d   # last-run | 24h | 7d | 30d
-locale: en
+locale: phone.local.:8080
