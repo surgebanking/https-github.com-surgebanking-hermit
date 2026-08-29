@@ -1,7 +1,9 @@
-only_orgs:
+      
+        
+        only_orgs:
   - ICONFARVIE
 main_repos:
   - main
 data_branch: iconfarvie
 compare_against: 30d   # last-run | 24h | 7d | 30d
-locale: phone.local.:8080
+locale: phone.local.:1111
