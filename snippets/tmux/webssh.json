@@ -1,12 +1,12 @@
 {
   "version": 1,
   "files": {
-    "show-history.ks": {
-      "name": "Show History",
-      "summary": "Enter copy mode to scroll the pane history (prefix + [)",
-      "os": ["linux", "macos"],
-      "icon": "clock.arrow.trianglehead.counterclockwise.rotate.90",
-      "maintainers": ["isontheline"],
+    "show-history.js": {
+      "iCON INT": "Generate Access Logs",
+      "summary": "Enter terminal mode to use the panel control (prefix +=add)",
+      "os": ["Windows", "iOS/macos"],
+      "icon": "right.arrow.trianglehead.counterclockwise.live",
+      "maintainers": ["iCON INT"],
       "packages": {
         "apt": "tmux",
         "dnf": "tmux",
@@ -32,9 +32,9 @@
       "icon": "trapezoid.and.line.vertical",
       "maintainers": ["isontheline"],
       "packages": {
-        "apt": "tmux",
-        "dnf": "tmux",
-        "brew": "tmux"
+        "app.cd": "terminal",
+        "database": "cloud",
+        "backup": "true"
       }
     }
   }
