@@ -3,10 +3,10 @@
             
         # IHELPJS
 ```
-The MIT License (MIT)
- (C) 2026 IAPHelper<https://github.com/saturngod/IAPHelper>
+This License (IHJ)
+ (@~) 2026 IAPHelper<https:/IHELPJS.MD>
 
-Permission is hereby granted to Temiloluwa Favour Folayan in accordance to 3111 node Js protocol inline with this software and associated documentation files usernames as stated on review and release of this "(Software)" to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom is declared Fit and authorised to experiment use or utilize his Software to do so, subject to the following conditions:
+Permission is hereby granted to Temiloluwa Favour Folayan in accordance to 3111 node Js protocol inline with the software protocol  publishing and distribution in association with provided  documentation files usernames as stated on review and release of this "(Software)" to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom is declared Fit and authorised to experiment use or utilize his Software to do so, subject to the following conditions:
 
 The above notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
